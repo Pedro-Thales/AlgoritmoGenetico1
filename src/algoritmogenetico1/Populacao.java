@@ -89,6 +89,10 @@ public class Populacao {
     public Individuo[] getIndividuos() {
         return individuos;
     }
+    
+    public Individuo getIndividuo(int pos) {
+        return individuos[pos];
+    }
 
     public int getTamPopulacao() {
         return tamPopulacao;
