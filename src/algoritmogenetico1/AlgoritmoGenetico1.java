@@ -16,7 +16,7 @@ public class AlgoritmoGenetico1 {
      */
     public static void main(String[] args) {
         //definir a solução
-        Algoritmo.setSolucao("Nayara");
+        Algoritmo.setSolucao("Teste usando ã");
         //definir os caracteres existentes
         Algoritmo.setCaracteres("qwertyuiopasdfghjklçzxcvbnmíéaáàúóãõ QWERTYUIOPASDFGHJKLÇZXCVBNMÍÉÁÀÓÃÕ");
         //taxa de crossover de 60%
